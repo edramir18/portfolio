@@ -1,15 +1,5 @@
-# bootstraptemplate
-Template for Bootstrap 4, and JQuery 3.2
+# portfolio
+Project Portfolio Webpage for freeCodeCamp challenge
 
-Include custom color definition on main.css file
-
-How to add a ssh key to github
-
-Create the ssh key with the command
-```
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
-```
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+#100DaysOfCode D3
+Starting this project with initial template
