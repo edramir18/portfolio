@@ -5,7 +5,12 @@
     --apple_core-color: #dcc7aa;
 }
 
-body {
-    color: white;
+body {    
     background-color: var(--apple_core-color);
+    padding-top: 70px;
+}
+
+banda {
+    color: white;
+    background-color: var(--blueberry-color);
 }
