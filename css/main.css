@@ -14,3 +14,22 @@ body {
     color: white;
     background-color: var(--apricot-color);
 }
+
+.img-placeholder {
+    background-color: var(--citrus-color);
+    height: 219px;
+    width: 292px;
+}
+
+.portfolio {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;     
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.portfolio-item {
+    width: 300px;
+    background-color: var(--blueberry-color);
+}
