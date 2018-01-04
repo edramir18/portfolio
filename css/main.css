@@ -33,3 +33,8 @@ body {
     width: 300px;
     background-color: var(--blueberry-color);
 }
+
+.info-card {
+    color: white;
+    background-color: var(--blueberry-color); 
+}
